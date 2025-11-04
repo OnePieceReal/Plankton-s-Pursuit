@@ -2,6 +2,7 @@
 
 ## Overview
 A Pygame-based arcade game where Plankton tries to steal the Krabby Patty secret formula while avoiding obstacles and projectiles from Mr. Krabs.
+<img width="703" height="834" alt="image" src="https://github.com/user-attachments/assets/3659b795-6f74-4762-addf-3a59b94d1386" />
 
 ## Prerequisites
 
